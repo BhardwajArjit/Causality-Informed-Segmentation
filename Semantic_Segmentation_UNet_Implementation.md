@@ -34,7 +34,7 @@ To replicate the experiment:
 
 ## Results:
 
-Upon training the UNet model on the Cityscapes dataset, the performance can be evaluated using various metrics such as mean Intersection over Union (mIoU).
+Upon training the UNet model on the Cityscapes dataset, the performance can be evaluated using various metrics such as mean Intersection over Union (mIoU). Additionally, qualitative evaluation through visual inspection of segmentation results provides insights into the model's ability to accurately segment land cover classes.
 
 ## Contributors:
 
